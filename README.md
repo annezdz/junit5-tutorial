@@ -1,4 +1,4 @@
-# junit5-tutorial
+# JUnit5 by Test Automation University
 
 This is going to be a very interesting journey as we're going to go through all of the features of this framework, and I really hope this is going to be something that will help you to use JUnit 5 in your testing from now on.
 
